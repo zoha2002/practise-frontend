@@ -1,0 +1,250 @@
+.h1-main{
+    font-size:60px;
+
+}
+.h2-main{
+    font-size: 50px;
+
+}
+.h4{
+    color: rgb(250, 174, 33);;
+}
+.p-main{
+    font-size: 20px;
+}
+.c2{
+    display: flex;
+    flex-direction: row;
+   ;
+}
+.btn{
+    color: aliceblue;
+    font-size: 20px;
+    border-radius: 30px;
+    padding: 10px 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.btn-secondary{
+    margin-top: 40px;
+    color: black;
+    background-color: transparent !important;
+}
+.feature .col{
+   
+    display: flex;
+    flex-direction: row;
+    margin-top: 150px; 
+}
+.container.c-3{
+    margin-top: 180px!important;
+    display: flex;
+    flex-direction: row;
+}
+.feature h1{
+    font-size: x-large;
+    font-weight:bold;
+}
+
+
+.img{
+   
+    height: 80px;
+    width: 80px;
+}
+
+
+
+
+.vertical-line {
+   
+   
+   
+    width: 2px; 
+    height: 80px; 
+    background-color: #ccc; 
+    margin:50px 80px;
+   
+}
+
+
+
+.container .c-4 img{
+   width: 320px;
+   height: 200px;
+   border-radius:13px;
+  
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 0%;
+}
+.h3{
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.horizontal {
+    border: none;
+    border-top: 2px solid #e3d9d9; 
+    margin: 20px 0; 
+    width: 100%; 
+  }
+  
+
+  .breadcrumbs {
+    list-style: none; 
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center; 
+  }
+  
+  .breadcrumbs li {
+    display: flex;
+    align-items: center;
+  }
+  
+  .breadcrumbs li:not(:last-child)::after {
+    content: '|'; 
+    margin: 0 10px; 
+    color: #e3d9d9; 
+  }
+  
+  .breadcrumbs label {
+    font-weight: bold;
+    margin-right: 5px;
+    color: #a69b9b;
+  }
+  .img{
+    width:500px;
+     height:504;
+  }
+ .container.c-5{
+    display: grid;
+
+
+    
+ }
+
+  .container .content{
+    width: 50%;
+  }
+
+  .container .img{
+    width: 50%;
+  }
+
+
+  .container .c-5 {
+    width: 100%;
+    height: 1000px;
+    background-color: rgb(235, 228, 228);
+   
+    display: flex; /* Set flexbox to arrange child divs in a row */
+    justify-content: space-between; /* Optional: Add space between items */
+    align-items: center; /* Center items vertically */
+}
+
+.container.img,
+.container.content {
+    flex: 1; /* Allows the divs to take up equal space */
+}
+
+.container.img {
+    margin-bottom: 50px;
+    margin-right: 20px; /* Optional: Add space between the image and content */
+}
+
+.container.content {
+    margin-top: 200px;
+    
+    flex: 1; /* Allows the content to expand and take up the remaining space */
+}
+
+.vertical {
+    width: 3px; /* Thickness of the line */
+    height: 200px; /* Height of the line */
+    background-color: rgb(250, 174, 33); /* Color of the line */
+  }
+  
+  .btn .btn-warning{
+    margin-top: 50px;
+  }
+
+  .container .heading {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    color: #2b2b2b;
+    font-family: "Plus Jakarta Sans",Sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 60px;
+  }
+  .container .hd{
+    display: block;
+    float: left;
+    width: 55%;
+    margin-top: 50px;
+  }
+  .container .hd h2{
+    
+    color: rgb(236, 144, 24);
+  }
+ .img1{
+    margin-top: 100px;
+   ;
+    border-radius: 15px;
+    width: 450px;
+    height: 300px;
+ }
+  
+.btn .btn-2{
+    width: 240px;
+    padding: 15px;
+    border-radius: 60px;
+    background-color: #000;
+    color: #ffffff;
+}
+.container .btn{
+    margin-top: 100px;
+}
+.map-itemlist1{
+    width: 200px;
+
+}
+.map-itemlist2{
+    width: 200px;
+   
+
+}
+
+.container .c-6{
+    background-color: #ffffff;
+}
+
+.container .con-map{
+    width: 300px;
+    height: 250px;
+     }
+
+.svg{
+    
+
+    
+    width: 550px;
+    height: 450px;
+  
+    
+
+}
+.col{
+    width: 300px;
+}
+.container .c-7{
+    margin-top: 50px;
+    width: 40%;
+    float: left;
+}
